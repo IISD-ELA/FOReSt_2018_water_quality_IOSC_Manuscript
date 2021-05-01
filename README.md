@@ -1,1 +1,2 @@
-# FOReSt_2018_water_quality_IOSC_Manuscript
+# Supplemental Information to:
+## The Freshwater Oil Spill Remediation Study (FOReSt): 2018 Pilot Study at the Experimental Lakes Area, Canada
